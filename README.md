@@ -19,3 +19,6 @@ $ python -i
 ```
 which generates the example plots `"mpl_figure_plot.pdf"` and `"root_canvas_plot.pdf"`:
 <img src="plots/root_canvas_plot.png" alt="ROOT plot" width="49%"> <img src="plots/mpl_figure_plot.png" alt="matplotlib plot" width="49%">
+
+a more extensive use of the plotter can be found at <a href="https://gitlab.cern.ch/lhcb-charm/kpi_dt/-/blob/master/analysis/fit_delta_mass.py?ref_type=heads">this link</a>
+(requires a CERN account)
