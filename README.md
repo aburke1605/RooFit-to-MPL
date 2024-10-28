@@ -17,4 +17,5 @@ $ python -i
 >>> from Utils import Example
 >>> Example()
 ```
-which generates the example plots `"mpl_figure_plot.pdf"` and `"root_canvas_plot.pdf"`
+which generates the example plots `"mpl_figure_plot.pdf"` and `"root_canvas_plot.pdf"`:
+<img src="plots/root_canvas_plot.png" alt="ROOT plot" width="49%"> <img src="plots/mpl_figure_plot.png" alt="matplotlib plot" width="49%">
